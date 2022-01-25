@@ -48,7 +48,7 @@
     font-display: swap;
 }
 @font-face {
-    font-family: 'LeferiPointBlackOblique';
+    font-family: 'LeferiPointBlacke';
     font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/leferi/LeferiPointBlackOblique.eot');
@@ -79,7 +79,7 @@
     font-display: swap;
 }
 @font-face {
-    font-family: 'LeferiPointSpecialItalic';
+    font-family: 'LeferiPointSpecial';
     font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/leferi/LeferiPointSpecialItalic.eot');
@@ -110,7 +110,7 @@
     font-display: swap;
 }
 @font-face {
-    font-family: 'LeferiPointWhiteOblique';
+    font-family: 'LeferiPointWhite';
     font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/leferi/LeferiPointWhiteOblique.eot');
