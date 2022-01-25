@@ -1,5 +1,3 @@
-# leferi
-
 # 레페리베이스(LeferiBase)
 
 <a href="https://wess.tistory.com" target="_blank">
