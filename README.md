@@ -38,7 +38,7 @@
 <pre>
 @font-face {
     font-family: 'LeferiPointBlack';
-    font-weight: 300;
+    font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/leferi/LeferiPointBlack.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/leferi/LeferiPointBlack.eot?#iefix') format('embedded-opentype'),
@@ -48,8 +48,8 @@
     font-display: swap;
 }
 @font-face {
-    font-family: 'LeferiPointBlacke';
-    font-weight: 400;
+    font-family: 'LeferiPointBlack';
+    font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/leferi/LeferiPointBlackOblique.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/leferi/LeferiPointBlackOblique.eot?#iefix') format('embedded-opentype'),
@@ -69,7 +69,7 @@
 <pre>
 @font-face {
     font-family: 'LeferiPointSpecial';
-    font-weight: 300;
+    font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/leferi/LeferiPointSpecial.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/leferi/LeferiPointSpecial.eot?#iefix') format('embedded-opentype'),
@@ -80,7 +80,7 @@
 }
 @font-face {
     font-family: 'LeferiPointSpecial';
-    font-weight: 400;
+    font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/leferi/LeferiPointSpecialItalic.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/leferi/LeferiPointSpecialItalic.eot?#iefix') format('embedded-opentype'),
@@ -100,7 +100,7 @@
 <pre>
 @font-face {
     font-family: 'LeferiPointSpecial';
-    font-weight: 300;
+    font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/leferi/LeferiPointWhite.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/leferi/LeferiPointWhite.eot?#iefix') format('embedded-opentype'),
@@ -111,7 +111,7 @@
 }
 @font-face {
     font-family: 'LeferiPointWhite';
-    font-weight: 400;
+    font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/leferi/LeferiPointWhiteOblique.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/leferi/LeferiPointWhiteOblique.eot?#iefix') format('embedded-opentype'),
